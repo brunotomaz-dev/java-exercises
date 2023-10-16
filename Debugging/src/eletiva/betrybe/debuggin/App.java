@@ -1,3 +1,4 @@
+package eletiva.betrybe.debuggin;
 public class App {
 
   public static void main(String[] args) {
