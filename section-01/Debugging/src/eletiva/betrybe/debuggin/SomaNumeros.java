@@ -1,3 +1,5 @@
+package eletiva.betrybe.debuggin;
+
 public class SomaNumeros {
   /*
   * Retorna a soma de dois números
